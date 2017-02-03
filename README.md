@@ -1,0 +1,1 @@
+This project is to recreate the google homepage as part of theodinproject.com curriculum. The project is to learn to think about how web pages are designed and how they are styled and aligned to get the desired results.
